@@ -5,11 +5,6 @@
 # smart-device-management-system.
 An interactiven simulator modeling a smart home ecosystem. It manages specialized smart devices like lights, cameras, and sensors. Features data encapsulation via private attributes, method overriding, and logical state checks to prevent device interaction while powered off.
 A Python-based command-line application that simulates a Smart Home Management System. This project fulfills the Object-Oriented Programming (OOP) assignment requirements to model real-world smart appliances using foundational programming architectures.
-
-##  Academic Details
-* Project By: Adamtey Alan Nene Terkpeh
-* Class/ID: El 1A FOE.41.006.010.25
-
 ---
 
 ##  Task Summary
